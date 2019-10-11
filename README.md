@@ -1,4 +1,11 @@
-# ts-demo
+# TS-Vue-Vuex-Antd Start Framework
+
+```
+npm install -g @vue/cli  # choose typescript and unchoose babel
+vue create ts-demo
+cd ts-demo
+vue add ant-design
+```
 
 ## Project setup
 ```
