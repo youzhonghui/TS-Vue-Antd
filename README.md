@@ -7,14 +7,25 @@ cd ts-demo
 vue add ant-design
 ```
 
+## How to use
+
+1. `npm run fe-serve`
+2. open another terminal, run `npm run s-start`
+3. open http://localhost:8080
+
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for front-end development
 ```
-npm run serve
+npm run fe-serve
+```
+
+### Run the server side
+```
+npm run s-start
 ```
 
 ### Compiles and minifies for production
